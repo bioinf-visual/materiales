@@ -5,7 +5,7 @@ Asignatura : Visualización Científica (INB320)
 
 Horas :
 
-Profesor responsable : Eduardo Castro (<eduardo.castro@unab.cl>; <castronallar@gmail.com>), Álvaro González (<alvaro.gnu@gmail.com>)
+Profesores responsables : Eduardo Castro (<eduardo.castro@unab.cl>; <castronallar@gmail.com>), Álvaro González (<alvaro.gnu@gmail.com>)
 
 Horario de consultas : lunes 17:40 – 19:20 horas.
 
@@ -29,7 +29,11 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
--   Técnicas de secuenciamiento de DNA: Sanger, HTS
+-   Excelencia gráfica y porqué importa usar la visualización apropiada
+-   Gráficos de dispersión
+-   Histogramas y gráficos de densidad
+-   Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots
+-   Mapas de calor, diagramas de Venn, filogenias
 
 
 
