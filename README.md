@@ -11,9 +11,9 @@ Horario de consultas : lunes 17:40 – 19:20 horas.
 
 **COMPETENCIAS ALCANZADAS AL FINALIZAR EL CURSO**
 
-El objetivo del curso es conocer los fundamentos teóricos detrás de la genómica computacional y su aplicación. El curso está diseñado de tal forma que el estudiante se exponga a 1) investigación de punta en el área, 2) algoritmos e implementaciones de software, y 3) que desarrolle experiencia directa.
+El objetivo del curso es introducir al estudiante a la teoría y a la práctica de la visualización científica para poder comunicar resultados científicos de manera eficiente y concreta.
 
-Al término del curso, el estudiante exitoso habrá desarrollado la capacidad de analizar datos genómicos por si mismo, entender las opciones algorítmicas que se ajustan mejor a distintas situaciones experimentales, apreciar el estado del arte en esta disciplina.
+Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontunias, categóricas y numéricas, etc.
 
 **EVALUACIONES**
 
