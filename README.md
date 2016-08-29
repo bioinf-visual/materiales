@@ -1,7 +1,7 @@
 # Programa curso Visulización Científica
 Carrera : **Ingeniería en Bioinformática**
 
-Asignatura : Visualización Científica (INB320)
+Asignatura : Visualización Científica
 
 Horas :
 
