@@ -1,11 +1,9 @@
-# Programa curso Visulización Científica
-Carrera : **Ingeniería en Bioinformática**
+# Programa curso Visulización Científica  
 
-Asignatura : Visualización Científica
-
-Horas : Martes y Viernes de 10:20-12:00
-
-Profesores responsables : Eduardo Castro (<eduardo.castro@unab.cl>; <castronallar@gmail.com>), Álvaro González (<alvaro.gnu@gmail.com>)
+**Carrera:** Ingeniería en Bioinformática  
+**Asignatura:** Visualización Científica  
+**Horas:** Martes y Viernes de 10:20-12:00  
+**Profesores responsables:** Eduardo Castro (<eduardo.castro@unab.cl>; <castronallar@gmail.com>), Álvaro González (<alvaro.gnu@gmail.com>)  
 
 Consultas por correo electrónico y en persona a través de cita  
 
