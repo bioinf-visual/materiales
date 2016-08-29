@@ -3,11 +3,11 @@ Carrera : **Ingeniería en Bioinformática**
 
 Asignatura : Visualización Científica
 
-Horas :
+Horas : Martes y Viernes de 10:20-12:00
 
 Profesores responsables : Eduardo Castro (<eduardo.castro@unab.cl>; <castronallar@gmail.com>), Álvaro González (<alvaro.gnu@gmail.com>)
 
-Horario de consultas : lunes 17:40 – 19:20 horas.
+Consultas por correo electrónico y en persona a través de cita  
 
 **COMPETENCIAS ALCANZADAS AL FINALIZAR EL CURSO**
 
