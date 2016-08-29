@@ -66,3 +66,8 @@ Durante todas las actividades, los alumnos deben cumplir las siguientes condicio
 *3. Participación*: Se espera participación activa en las clases (Ej.: hacer preguntas, discutir los temas, etc.)
 
 *4. Evaluación*: Cada estudiante es responsable de traer consigo, lápiz pasta, goma, lápiz grafito, corrector, regla, calculadora (no se aceptará el uso de celulares con este fin), de manera que no se aceptarán préstamos entre los alumnos mientras se realice la evaluación.
+
+**BIBLIOGRAFÍA**  
+
+* [The visual display of quantitative information](https://github.com/bioinf-visual/materiales/raw/master/Tufte.pdf) por Edward R. Tufte  
+* [ggplot2. elegant graphics for data analysis](https://github.com/bioinf-visual/materiales/raw/master/Wickham.pdf) por Hadley Wickham
