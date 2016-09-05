@@ -33,13 +33,13 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 -   **Semana del 3 de octubre:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots
 -   **Semana del 10 de octubre:** Mapas de calor, diagramas de Venn, filogenias
 -   **Semana del 17 de octubre:** Gráficos especiales en genómica, e.g., Alluvial plots, density plots, stacked bar charts, etc.
--   **Semana del 24 de octubre:** 
+-   **Semana del 24 de octubre:** Libre disposición  
 -   **Semana del 31 de octubre:** 
 -   **Semana del 7 de noviembre:** 
 -   **Semana del 14 de noviembre:** 
--   **Semana del 21 de noviembre:** 
--   **Semana del 28 de noviembre:** 
--   **Semana del 5 de diciembre:** 
+-   **Semana del 21 de noviembre:** Procesamiento de imágenes: Operaciones de histogramas, filtros, threshold, morfología y cuantificaciones de intensidades. Entrega proyecto N°1. Proyecto N°2.  
+-   **Semana del 28 de noviembre:** Scripting en ImageJ básico:  Manejo de estructuras de control y conceptos básicos del para la manipulación de imágenes de forma semi automática.  
+-   **Semana del 5 de diciembre:** Scripting en ImageJ avanzado: Manejo masivo de imágenes vía scripting y generación de reportes de análisis.  
 -   **Semana del 12 de diciembre:** Mas allá de la microscopía: Conceptos básicos documentación y análisis de expresión génica y proteica mediante análisis de densiometría de bandas de cromatografía.  
 -   **Semana del 19 de diciembre:** Libre disposición
 -   **Semana del 27 de diciembre:** Examen final
