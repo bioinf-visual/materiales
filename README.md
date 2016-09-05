@@ -27,16 +27,17 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
--   **Semana del 5 de septiembre:** Excelencia gráfica y porqué importa usar la visualización apropiada
--   **Semana del 12 de septiembre:** Gráficos de dispersión
--   **Semana del 26 de septiembre:** Histogramas y gráficos de densidad
--   **Semana del 3 de octubre:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots
--   **Semana del 10 de octubre:** Mapas de calor, diagramas de Venn, filogenias
--   **Semana del 17 de octubre:** Gráficos especiales en genómica, e.g., Alluvial plots, density plots, stacked bar charts, etc.
--   **Semana del 24 de octubre:** Libre disposición  
--   **Semana del 31 de octubre:** 
--   **Semana del 7 de noviembre:** 
--   **Semana del 14 de noviembre:** 
+-   **Semana del 5 de septiembre:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot.    
+-   **Semana del 12 de septiembre:** Gráficos de dispersión  
+-   **Semana del 26 de septiembre:** Histogramas y gráficos de densidad  
+-   **Semana del 3 de octubre:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots  
+-   **Semana del 10 de octubre:** Mapas de calor, diagramas de Venn, filogenias  
+-   **Semana del 17 de octubre:** Gráficos especiales en genómica, e.g., Alluvial plots, density plots, stacked bar charts, etc.  
+-   **Semana del 24 de octubre:** Libre disposición.  
+-   **Semana del 31 de octubre:** Introducción a la fisiología celular: Conocer conceptos básicos de componentes celulares y su función.  
+-   **Semana del 7 de noviembre:** Técnicas de microscopía: Conocer los fundamentos básicos de la captura de imágenes vía microscopía y las diferentes técnicas existentes para identificación de ultraestructuras celulares. 
+Proyecto N°1.  
+-   **Semana del 14 de noviembre:** Introducción al procesamiento de imágenes: Conceptos básicos de tratamientos de imágenes, formatos de bioimágenes operación de ImageJ.  
 -   **Semana del 21 de noviembre:** Procesamiento de imágenes: Operaciones de histogramas, filtros, threshold, morfología y cuantificaciones de intensidades. Entrega proyecto N°1. Proyecto N°2.  
 -   **Semana del 28 de noviembre:** Scripting en ImageJ básico:  Manejo de estructuras de control y conceptos básicos del para la manipulación de imágenes de forma semi automática.  
 -   **Semana del 5 de diciembre:** Scripting en ImageJ avanzado: Manejo masivo de imágenes vía scripting y generación de reportes de análisis.  
