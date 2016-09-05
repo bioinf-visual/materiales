@@ -27,12 +27,22 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
--   Excelencia gráfica y porqué importa usar la visualización apropiada
--   Gráficos de dispersión
--   Histogramas y gráficos de densidad
--   Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots
--   Mapas de calor, diagramas de Venn, filogenias
--   Gráficos especiales en genómica, e.g., Alluvial plots, density plots, stacked bar charts, etc.
+-   **Semana del 5 de septiembre:** Excelencia gráfica y porqué importa usar la visualización apropiada
+-   **Semana del 12 de septiembre:** Gráficos de dispersión
+-   **Semana del 26 de septiembre:** Histogramas y gráficos de densidad
+-   **Semana del 3 de octubre:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots
+-   **Semana del 10 de octubre:** Mapas de calor, diagramas de Venn, filogenias
+-   **Semana del 17 de octubre:** Gráficos especiales en genómica, e.g., Alluvial plots, density plots, stacked bar charts, etc.
+-   **Semana del 24 de octubre:** 
+-   **Semana del 31 de octubre:** 
+-   **Semana del 7 de noviembre:** 
+-   **Semana del 14 de noviembre:** 
+-   **Semana del 21 de noviembre:** 
+-   **Semana del 28 de noviembre:** 
+-   **Semana del 5 de diciembre:** 
+-   **Semana del 12 de diciembre:** Mas allá de la microscopía: Conceptos básicos documentación y análisis de expresión génica y proteica mediante análisis de densiometría de bandas de cromatografía.  
+-   **Semana del 19 de diciembre:** Libre disposición
+-   **Semana del 27 de diciembre:** Examen final
 
 
 \*Cualquier eventual modificación de la información entregada en este documento será informada oportunamente a los alumnos.
