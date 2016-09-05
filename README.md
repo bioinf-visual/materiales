@@ -11,17 +11,13 @@ Consultas por correo electrónico y en persona a través de cita
 
 El objetivo del curso es introducir al estudiante a la teoría y a la práctica de la visualización científica para poder comunicar resultados científicos de manera eficiente y concreta. La estructura del curso comprende dos grandes unidades, visualización científica propiamente tal y procesamiento de imágenes biológicas.  
 
-Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontunias, categóricas y numéricas, etc. Además, el estudiante será capaz de entender cómo se generan las imágenes científicas en biología, e.g., microscopía, y cómo procesarlas para extraer información biológica relevante.  
+Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontinuas, categóricas y numéricas, etc. Además, el estudiante será capaz de entender cómo se generan las imágenes científicas en biología, e.g., microscopía, y cómo procesarlas para extraer información biológica relevante.  
 
 **EVALUACIONES**
 
--   **Pruebas escritas** – 10% cada una; total 3 en el semestre = 30% de la nota de presentación al examen
+-   **Pruebas escritas** – 20% cada una; total 3 en el semestre = 60% de la nota de presentación al examen
 
--   **Presentaciones** – 25% de la nota de presentación al examen
-
--   **Proyecto de clase (programación en R)** – 30% de la nota de presentación al examen
-
--   **Discusión de artículos** – 15% de la nota de presentación al examen
+-   **Presentaciones, Proyectos, y/o laboratorios** – 40% de la nota de presentación al examen
 
 -   **Examen** – 30% del total del curso
 
