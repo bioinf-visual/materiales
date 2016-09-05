@@ -9,9 +9,9 @@ Consultas por correo electrónico y en persona a través de cita
 
 **COMPETENCIAS ALCANZADAS AL FINALIZAR EL CURSO**
 
-El objetivo del curso es introducir al estudiante a la teoría y a la práctica de la visualización científica para poder comunicar resultados científicos de manera eficiente y concreta.
+El objetivo del curso es introducir al estudiante a la teoría y a la práctica de la visualización científica para poder comunicar resultados científicos de manera eficiente y concreta. La estructura del curso comprende dos grandes unidades, visualización científica propiamente tal y procesamiento de imágenes biológicas.  
 
-Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontunias, categóricas y numéricas, etc.
+Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontunias, categóricas y numéricas, etc. Además, el estudiante será capaz de entender cómo se generan las imágenes científicas en biología, e.g., microscopía, y cómo procesarlas para extraer información biológica relevante.  
 
 **EVALUACIONES**
 
@@ -32,7 +32,7 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 -   Histogramas y gráficos de densidad
 -   Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots
 -   Mapas de calor, diagramas de Venn, filogenias
-
+-   Gráficos especiales en genómica, e.g., Alluvial plots, density plots, stacked bar charts, etc.
 
 
 \*Cualquier eventual modificación de la información entregada en este documento será informada oportunamente a los alumnos.
