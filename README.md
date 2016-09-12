@@ -24,7 +24,7 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
 -   **Semana del 5 de septiembre:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c01_excelencia_gráfica.pdf)    
--   **Semana del 12 de septiembre:** Gráficos de dispersión  
+-   **Semana del 12 de septiembre:** Gráficos de dispersión. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c02_gráficos_de_dispersión.pdf) y [código](https://raw.githubusercontent.com/bioinf-visual/materiales/master/clase_02.R)    
 -   **Semana del 26 de septiembre:** Histogramas y gráficos de densidad  
 -   **Semana del 3 de octubre:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots  
 -   **Semana del 10 de octubre:** Mapas de calor, diagramas de Venn, filogenias  
