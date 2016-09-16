@@ -1,13 +1,13 @@
 # Introducción a ggplot2: gráficos de dispersión
 
-La actividad del día de hoy consiste en demostrar las capacidades de ggplot2 para generar gráficos de dispersión. Adicionalmente, vamos a generar un documento tipo "Tufte handout" en PDF + código en R que servirá como documento ilustrativo de las capacidades de ggplot2.
+La actividad del día de hoy consiste en demostrar las capacidades de `ggplot2` para generar gráficos de dispersión. Adicionalmente, vamos a generar un documento tipo "Tufte handout" en PDF + código en R que servirá como documento ilustrativo de las capacidades de ggplot2.
 
 Hoy vamos a:
 
-* Generar gráficos de dispersión usando el set de datos `diamond` que viene precargado en R
+* Generar gráficos de dispersión usando el set de datos `diamonds` que viene precargado en R
 * Demostrar cómo colorear puntos de datos en el gráfico de dispersión usando *"estéticas"* (aesthetics)
 * Demostrar cómo podemos hacer que el área de los puntos sea proporcional a alguna magnitud de interés usando el argumento `size=`
-*  Demostrar c'omo hacer que la forma de cada punto corresponda con una variable categórica usando el argumento `shape=`
+*  Demostrar cómo hacer que la forma de cada punto corresponda con una variable categórica usando el argumento `shape=`
 *  Demostrar el uso de ajustes estadísticos a los datos usando `geom_smooth()`
 *  Demostrar el uso de *"faceting"* para generar figuras con paneles múltiples 
 
