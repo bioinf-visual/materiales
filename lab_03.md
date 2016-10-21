@@ -6,6 +6,10 @@ En particular, los datos de hoy vienen de un cálculo de Diversidad Alfa para ca
 
 Descargar datos [aquí](https://github.com/bioinf-visual/materiales/blob/master/data.rds?raw=true)
 
+Para leer los datos simplemente ejecuten el siguiente comando  
+
+	readRDS("data.rds") -> mydata
+
 Entonces, hoy vamos a:
 
 * Generar Boxplots, violin plots y sinaplots con los datos proporcionados en forma de paneles usando el paquete `gridExtra`.  
