@@ -28,8 +28,8 @@ En sus máquinas deberían poder instalar estos paquetes a través del comando `
 Con respecto a la tarea, recuerden que esta debe ser un documento Tufte. El tipo de archivo de salida lo controlan con las instrucciones que escriben en el primer párrafo:
 
 	---
-	title: "Boxplots, Violin plots y sinaplots"
-	subtitle: "ggplot2, sinaplot, y R Studio"
+	title: "Heat maps"
+	subtitle: "heatmaps"
 	author: "Edward Tufte"
 	date: "`r Sys.Date()`"
 	output:
