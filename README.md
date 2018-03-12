@@ -2,7 +2,7 @@
 
 **Carrera:** Ingeniería en Bioinformática  
 **Asignatura:** Visualización Científica  
-**Horas:** Martes de 10:20-12:00 y los viernes de 11:15-12:55  
+**Horas:** Lunes de 14:00 a 17:30 
 **Profesores responsables:** Eduardo Castro (<eduardo.castro@unab.cl>), Matthieu Miossec (<matthieu.miossec@unab.cl>).  
 
 Consultas por correo electrónico y en persona a través de cita  
@@ -10,7 +10,8 @@ Consultas por correo electrónico y en persona a través de cita
 **COMPETENCIAS ALCANZADAS AL FINALIZAR EL CURSO**
 
 El objetivo del curso es introducir al estudiante a la teoría y a la práctica de la visualización científica para poder comunicar resultados científicos de manera eficiente y concreta. La estructura del curso comprende dos grandes unidades, visualización científica propiamente tal y procesamiento de datos genómicos humanos y su visualización.  
-Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontinuas, categóricas y numéricas, etc. Además, el estudiante será capaz de entender cómo se generan las imágenes científicas en biología, e.g., genómica humana, y cómo presentarlas para destacar información biológica relevante.  
+
+Al término del curso, el estudiante exitoso será capaz de identificar y producir visualizaciones científicas apropiadas a distintos tipos de datos: variables continuas y discontinuas, categóricas y numéricas, etc. Además, el estudiante será capaz de entender cómo se generan las imágenes científicas en biología, e.g., genómica humana, y cómo presentarlas para destacar información biológica relevante.  
 
 **EVALUACIONES**
 
@@ -22,7 +23,7 @@ El objetivo del curso es introducir al estudiante a la teoría y a la práctica 
 
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
--   **Semana del 12 de marzo:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot. [clase en PDF]()    
+-   **Semana del 12 de marzo:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c01_excelencia_gr%C3%A1fica.pdf)    
 -   **Semana del 19 de marzo:** Gráficos de dispersión. [clase en PDF]() y [código](). [Código del lab 01]()   
 -   **Semana del 26 de marzo:** Histogramas y gráficos de densidad. [clase en PDF]() y [código](). [Código del lab 02]()   
 -   **Semana del 2 de abril:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots. **Proyecto N°1.** [clase en PDF]() [código]()  
@@ -30,12 +31,14 @@ El objetivo del curso es introducir al estudiante a la teoría y a la práctica 
 -   **Semana del 16 de abril:** Gráficos especiales en genómica, e.g., Alluvial plots, stacked bar charts, etc.  
 -   **Semana del 23 de abril:**   Libre disposición.
 -   **Semana del 30 de abril:**  Introducción a datos genómicos y al genoma humano.
--   **Semana del 7 de mayo:**   Introducción al UCSC genome browser. Funcionalidades yanotaciones.
+-   **Semana del 7 de mayo:**   Introducción al UCSC genome browser. Funcionalidades y
+anotaciones.
 -   **Semana del 14 de mayo:** Introducción a ExAC. Exploración de variantes génicas. **Entrega proyecto N°1. Proyecto N°2.**
 -   **Semana del 21 de mayo:** Control de calidad de datos genómicos con gráficos
 -   **Semana del 28 de mayo:**   Operaciones con archivos BAM, cálculo de cobertura manipulaciones básicas.
 -   **Semana del 4 de junio:**   Introducción a exploradores genómicos: IGV, Artemis, etc.
--   **Semana del 11 de junio:** Gráficos en estudios de asociación genética (GWAS):Mannhattan Plots.
+-   **Semana del 11 de junio:** Gráficos en estudios de asociación genética (GWAS):
+Mannhattan Plots.
 -   **Semana del 18 de junio:** Libre disposición
 -   **Semana del 25 de junio:** Examen final
 
