@@ -24,10 +24,10 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
 -   **Semana del 12 de marzo:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c01_excelencia_gr%C3%A1fica.pdf)    
--   **Semana del 19 de marzo:** Gráficos de dispersión. [clase en PDF]() y [código](). [Código del lab 01]()   
--   **Semana del 26 de marzo:** Histogramas y gráficos de densidad. [clase en PDF]() y [código](). [Código del lab 02]()   
--   **Semana del 2 de abril:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots. **Proyecto N°1.** [clase en PDF]() [código]()  
--   **Semana del 9 de abril:** Mapas de calor, diagramas de Venn, filogenias. [clase en PDF]() [Código del lab 03]() 
+-   **Semana del 19 de marzo:** Gráficos de dispersión. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c02_gráficos_de_dispersión.pdf).  
+-   **Semana del 26 de marzo:** Histogramas y gráficos de densidad.     
+-   **Semana del 2 de abril:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots.  
+-   **Semana del 9 de abril:** Mapas de calor, diagramas de Venn, filogenias.   
 -   **Semana del 16 de abril:** Gráficos especiales en genómica, e.g., Alluvial plots, stacked bar charts, etc.  
 -   **Semana del 23 de abril:**   Libre disposición.
 -   **Semana del 30 de abril:**  Introducción a datos genómicos y al genoma humano.
