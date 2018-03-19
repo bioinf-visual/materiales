@@ -24,7 +24,7 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 **CONTENIDOS Y CRONOGRAMA DE LA ASIGNATURA**
 
 -   **Semana del 12 de marzo:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c01_excelencia_gr%C3%A1fica.pdf)    
--   **Semana del 19 de marzo:** Gráficos de dispersión. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c02_gráficos_de_dispersión.pdf).  
+-   **Semana del 19 de marzo:** Gráficos de dispersión. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c02_gráficos_de_dispersión.pdf); [Laboratorio 01](https://github.com/bioinf-visual/materiales/blob/master/lab01.md).  
 -   **Semana del 26 de marzo:** Histogramas y gráficos de densidad.     
 -   **Semana del 2 de abril:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots.  
 -   **Semana del 9 de abril:** Mapas de calor, diagramas de Venn, filogenias.   
