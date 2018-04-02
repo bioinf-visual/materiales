@@ -26,7 +26,7 @@ Al término del curso, el estudiante exitoso será capaz de identificar y produc
 -   **Semana del 12 de marzo:** Excelencia gráfica y porqué importa usar la visualización apropiada. Introducción a R, R Studio y ggplot. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c01_excelencia_gr%C3%A1fica.pdf)    
 -   **Semana del 19 de marzo:** Gráficos de dispersión. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c02_gráficos_de_dispersión.pdf); [Laboratorio 01](https://github.com/bioinf-visual/materiales/blob/master/lab01.md).  
 -   **Semana del 26 de marzo:** Histogramas y gráficos de densidad. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c03_histogramas.pdf); [Laboratorio 02](https://github.com/bioinf-visual/materiales/blob/master/lab_02.md).       
--   **Semana del 2 de abril:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots.  
+-   **Semana del 2 de abril:** Diagramas de cajas (boxplots), de violín (Violin plots) y sinaplots. [clase en PDF](https://github.com/bioinf-visual/materiales/raw/master/c04_boxplots.pdf); [Laboratorio 03](https://github.com/bioinf-visual/materiales/blob/master/lab_03.md).         
 -   **Semana del 9 de abril:** Mapas de calor, diagramas de Venn, filogenias.   
 -   **Semana del 16 de abril:** Gráficos especiales en genómica, e.g., Alluvial plots, stacked bar charts, etc.  
 -   **Semana del 23 de abril:**   Libre disposición.
